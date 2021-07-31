@@ -57,6 +57,7 @@ civico: "22 bis",
 citta: "torino",
 
   }
+  let last  = persona.interesi.push('viaggiare')
   console.log(persona);
 console.log(persona.interesi);
 persona.interesi.forEach(element =>{
